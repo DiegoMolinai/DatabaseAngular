@@ -1,2 +1,9 @@
-# DatabaseAngular
-Database for angular project
+## MOCK REST API 
+
+Instalar dependencias
+
+    npm install
+
+Ejecutar el servidor
+
+    node server.js

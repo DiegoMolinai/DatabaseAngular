@@ -1,0 +1,139 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "daniel",
+      "apellido": "area",
+      "pais": "aaaa",
+      "ciudad": "aaaa",
+      "usuario": "diego",
+      "contrasena": "diego",
+      "id": 7,
+      "esadmin": true,
+      "productos": []
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Molina",
+      "pais": "Chile",
+      "ciudad": "Antofagasta",
+      "usuario": "samitamolina",
+      "contrasena": "neitor123",
+      "id": 8,
+      "esadmin": false,
+      "productos": [
+        {
+          "nombre": "awdawd",
+          "precio": 19999,
+          "descripcion": "awa",
+          "id": 5,
+          "imagenes": [
+            "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/03/27/15537190644260.png"
+          ]
+        },
+        {
+          "nombre": "awda",
+          "precio": 1231,
+          "descripcion": "adawdawd",
+          "imagenes": [
+            "https://images-na.ssl-images-amazon.com/images/I/51GV6PG0J3L._SX342_.jpg"
+          ],
+          "id": 6
+        }
+      ]
+    },
+    {
+      "nombre": "juan",
+      "apellido": "maldonado",
+      "pais": "uwu",
+      "ciudad": "awa",
+      "usuario": "owowowo",
+      "contrasena": "owowowo",
+      "id": 9,
+      "esadmin": false,
+      "productos": [
+        {
+          "id": 1,
+          "nombre": "Pummel Party",
+          "precio": 1000,
+          "descripcion": "Entretenido juego estilo mario party",
+          "imagenes": [
+            "https://static-cdn.jtvnw.net/ttv-boxart/Pummel%20Party.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Counter Strike Teletubies",
+          "precio": 10000,
+          "descripcion": "Models para players de counter strike 1.6",
+          "imagenes": [
+            "https://gamebanana.com/mods/embeddables/223232?variant=sd_image"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "diego",
+      "apellido": "molina",
+      "pais": "awawa",
+      "ciudad": "awawa",
+      "usuario": "xd",
+      "contrasena": "xd",
+      "id": 10,
+      "esadmin": false,
+      "productos": [
+        {
+          "id": 2,
+          "nombre": "Counter Strike Teletubies",
+          "precio": 10000,
+          "descripcion": "Models para players de counter strike 1.6",
+          "imagenes": [
+            "https://gamebanana.com/mods/embeddables/223232?variant=sd_image"
+          ]
+        },
+        {
+          "nombre": "Valorant v2",
+          "precio": 15000,
+          "descripcion": "Juego shooter para jugar con tus amigos",
+          "id": 3,
+          "imagenes": [
+            "https://playvalorant.com/assets/video/game-overview-poster-launch.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "matias",
+      "apellido": "castillo",
+      "pais": "aaa",
+      "ciudad": "aaa",
+      "usuario": "dsgdsg",
+      "contrasena": "dsfgsdg",
+      "id": 11,
+      "esadmin": false,
+      "productos": [
+        {
+          "id": 1,
+          "nombre": "Pummel Party",
+          "precio": 1000,
+          "descripcion": "Entretenido juego estilo mario party",
+          "imagenes": [
+            "https://static-cdn.jtvnw.net/ttv-boxart/Pummel%20Party.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Counter Strike Teletubies",
+          "precio": 10000,
+          "descripcion": "Models para players de counter strike 1.6",
+          "imagenes": [
+            "https://gamebanana.com/mods/embeddables/223232?variant=sd_image"
+          ]
+        }
+      ]
+    }
+  ],
+  "Productos": [],
+  "Intercambios": [
+    {}
+  ]
+}
